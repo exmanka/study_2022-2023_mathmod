@@ -1,6 +1,5 @@
-# Course Catalog Template for Students
+# Materials on YouTube
 
-## Clone repository
-
-git clone --recursive https://github.com/yamadharma/course-directory-student-template.git
-
+[Link](https://youtube.com/playlist?list=PLabeQW9pMjn1Sz14hxRPk4IgmStBO00m4) to a playlist with the screencasts of laboratory works.
+ 
+[Link](https://youtube.com/playlist?list=PLabeQW9pMjn1JcbhdaqC6oewcXgepfBvp) to a playlist with the screencasts of presentations defense.
