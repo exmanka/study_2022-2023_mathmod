@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [0.4.0] - 2023-03-03
+### Added
+- lab4
+
 ## [0.3.0] - 2023-02-25
 ### Added
 - lab3
