@@ -1,4 +1,4 @@
-# Laboratory work
+# Laboratory works
 
 
 ## Laboratory work №1
@@ -45,7 +45,7 @@ Construct a phase portrait of the harmonic oscillator and the solution of the ha
 1. Oscillations of a harmonic oscillator with attenuation and without the action of an external force $\ddot x + 10\dot x + 11x = 0$.
 1. Oscillations of a harmonic oscillator with attenuation and under the influence of an external force $\ddot x + \dot x + x = 3 \sin(t) $.
 
-On the interval $t\in [0; \65]$ (step $0.05$) with initial conditions $x_0=-1, \y_0=2$.
+On the interval $t\in [0; \ 65]$ (step $0.05$) with initial conditions $x_0=-1, \ y_0=2$.
 
 
 ## Laboratory work №5
@@ -67,3 +67,17 @@ $$
 $$
 
 Plot the dependence of the number of predators on the number of victims, as well as graphs of changes in the number of predators and the number of victims under the following initial conditions: $x_0 = 10$, $y_0 = 15$. Find the stationary state of the system.
+
+## Laboratory work №6
+
+# Goal
+Continue to get acquainted with the functionality of the Julia programming language, additional libraries (DifferentialEquations, Plots), the interactive Pluto notepad, as well as the interactive command line REPL. Continue familiarization with the Modelica modeling language and OpenModelica software. Using these tools, describe the epidemic problem (using the modified SIR mathematical model).
+
+# Task
+An epidemic broke out on one island. It is known that of all the people living on the island ($N=11,000$) at the time of the outbreak of the epidemic ($t=0$), the number of sick people (who are the distributors of the infection) is $I(0)=111$, And the number of healthy people with immunity to the disease is $R(0)=11$. Thus, the number of people susceptible to the disease, but still healthy, at the initial time $S(0)=NI(0)- R(0)$.
+
+Plot graphs of changes in the number of individuals in each of the three groups. Consider how the epidemic will proceed in the case of:
+
+1. If $I(0) \le I^*$
+
+2. If $I(0) > I^*$
