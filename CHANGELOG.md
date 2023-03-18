@@ -1,9 +1,17 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+
+## [0.7.0] - 2023-03-19
+### Added
+- lab7
+### Changed
+- labs/README.md
+- labs/README.en.md
+
 ## [0.6.0] - 2023-03-09
 ### Added
-- lab5
+- lab6
 ### Changed
 - labs/README.md
 - labs/README.en.md
