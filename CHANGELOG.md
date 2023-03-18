@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 
 
+## [0.8.0] - 2023-03-19
+### Added
+- lab8
+### Changed
+- labs/README.md
+- labs/README.en.md
+
 ## [0.7.0] - 2023-03-19
 ### Added
 - lab7
