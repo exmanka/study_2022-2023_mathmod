@@ -81,3 +81,20 @@ Plot graphs of changes in the number of individuals in each of the three groups.
 1. If $I(0) \le I^*$
 
 2. If $I(0) > I^*$
+
+
+## Laboratory work №7
+
+# Goal
+Continue acquaintance with the functionality of the Julia programming language, additional libraries (DifferentialEquations, Plots), the interactive Pluto notepad, as well as the interactive command line REPL. Continue familiarization with the Modelica modeling language and OpenModelica software. Using these tools, describe the mathematical model of an advertising company.
+
+# Task
+Build a graph of advertising distribution, the mathematical model of which is described by the following equation:
+
+1. $\frac{dn}{dt} = (0.77+0.00017 n(t))(N-n(t))$
+
+1. $\frac{dn}{dt} = (0.000055+0.29 n(t))(N-n(t))$
+
+1. $\frac{dn}{dt} = (0.5 \cdot t + 0.3 \cdot t \cdot n(t))(N-n(t))$
+
+At the same time, the volume of the audience is $N = $610, at the initial moment $10$ people know about the product. For case 2, determine at what point in time the speed of advertising distribution will have the maximum value.
