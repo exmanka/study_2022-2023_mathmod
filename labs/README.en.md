@@ -98,3 +98,16 @@ Build a graph of advertising distribution, the mathematical model of which is de
 1. $\frac{dn}{dt} = (0.5 \cdot t + 0.3 \cdot t \cdot n(t))(N-n(t))$
 
 At the same time, the volume of the audience is $N = $610, at the initial moment $10$ people know about the product. For case 2, determine at what point in time the speed of advertising distribution will have the maximum value.
+
+
+## Laboratory work №8
+
+# Goal
+Continue acquaintance with the functionality of the Julia programming language, additional libraries (DifferentialEquations, Plots), the interactive Pluto notepad, as well as the interactive command line REPL. Continue familiarization with the Modelica modeling language and OpenModelica software. Using these tools, describe a mathematical model of competition between two firms.
+
+# Task
+Consider two cases of competition between two firms: in the first case, the struggle between firms is conducted only by market methods. In the second case, in addition to economic factors, the struggle is conducted with the help of socio-psychological factors.
+
+1. Build schedules of changes in the working capital of firm 1 and firm 2 without taking into account fixed costs and with the conducted normalization for case 1.
+
+2. Build graphs of changes in the working capital of firm 1 and firm 2 without taking into account fixed costs and with the conducted normalization for case 2.
